@@ -1,0 +1,46 @@
+fristName
+lastName
+email
+mobileNumber
+age
+country
+gender
+createdAt
+updatedAt
+
+
+ {
+    _id: new ObjectId('66b77bcfe060a02c01999655'),
+    fristName: 'Tawfik',
+    lastName: 'Mathil',
+    email: 'T@gmail.com',
+    mobileNumber: '0534564534',
+    age: '33',
+    country: 'YEMEN',
+    gender: 'Male',
+    __v: 0
+  },
+  {
+    _id: new ObjectId('66b786847b5b6e723fe9a52b'),
+    fristName: 'Ahmed',
+    lastName: 'M',
+    email: 'ahmed.02@gmail.com',
+    mobileNumber: '345678998',
+    age: '23',
+    country: 'YEMEN',
+    gender: 'Male',
+    __v: 0
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
